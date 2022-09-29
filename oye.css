@@ -43,3 +43,27 @@
 .span-footer {
   display: flex;
 }
+
+/* ######################
+
+       Proj-2 Styling
+
+  #######################  */
+
+body {
+  background-color: #171824;
+}
+
+.main-heading-22 {
+  background-color: #4f4342;
+  color: #fff;
+}
+
+#home-22 {
+  list-style: circle;
+  color: aqua;
+}
+
+.first {
+  color: #fff;
+}
